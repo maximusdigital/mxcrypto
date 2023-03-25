@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b66bdfc9-ace2-46dc-a8b0-af719210de06" name="mxcrypto@timeweb">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="81.200.150.150" port="22" sshConfigId="01915e37-455f-49e1-a8cf-b338a82778c8" sshConfig="root@81.200.150.150:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
